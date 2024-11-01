@@ -581,7 +581,6 @@ div{
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
     background: linear-gradient(45deg, #4893ff, #6e1dd3);
 }
-/* Star animation */
 #khushi-bhaskar01_button::before {
   content: "★";
   position: absolute;
